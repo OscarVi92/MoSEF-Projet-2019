@@ -7,10 +7,8 @@ echo "Bienvenue $USER aujourd'hui nous sommes le $dateauj"
 read -p "Quel repertoire voulez ouvrir ?" directory
 echo -e "Vous avez choisi le repertoire" $directory
 
-#Question 6
 
 #Affichage de tous les fichiers du repertoire qui respecte le pattern associé
-ls $directory/$1
-
+grep -il $2 $directory/$1
 
 
