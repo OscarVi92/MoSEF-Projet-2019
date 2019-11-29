@@ -17,5 +17,6 @@ le code :
    * Le paramètre_1 donne l'information sur le nom du fichier.
 
    * Le paramètre_2 renseigne sur le pattern associé à la recherche
-   
+## Screen d'une recherche dans le répertoire MoSEF-Projet-2019
+![alt_text](/Capture du 2019-11-25 18-23-23.png)  
  Merci
